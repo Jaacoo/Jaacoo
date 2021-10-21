@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Stock observer**
 
-- 🌱 I’m currently learning **TensorFlow and improving skills in DevOps**
+- 🌱 I’m currently learning **TensorFlow** and improving skills in **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaacoo](https://github.com/Jaacoo)
 
